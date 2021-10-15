@@ -2,6 +2,6 @@
 Simple QR Code Generator for Links. 
 
 
-#Librarties Used : Tkinter ,
+Librarties Used : Tkinter ,
                   qecode
                  
